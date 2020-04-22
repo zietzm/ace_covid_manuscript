@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/zietzm/ace_covid_manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://zietzm.github.io/ace_covid_manuscript/>.
-The permalink for this webpage version is <https://zietzm.github.io/ace_covid_manuscript/v/073ce0e4e81c82e1ce8c55caeab0ebc6fd0f840c/>.
+The permalink for this webpage version is <https://zietzm.github.io/ace_covid_manuscript/v/28423c48f9b72f3a5fae52325754663a7f886350/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://zietzm.github.io/ace_covid_manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`073ce0e4e81c82e1ce8c55caeab0ebc6fd0f840c`](https://github.com/zietzm/ace_covid_manuscript/commit/073ce0e4e81c82e1ce8c55caeab0ebc6fd0f840c).
+[`28423c48f9b72f3a5fae52325754663a7f886350`](https://github.com/zietzm/ace_covid_manuscript/commit/28423c48f9b72f3a5fae52325754663a7f886350).
